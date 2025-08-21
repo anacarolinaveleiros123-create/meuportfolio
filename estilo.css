@@ -1,0 +1,17 @@
+/* css externo*/
+
+body {
+    background-color: rgb(62, 114, 142);/* cor fundo */
+    color: azure;/* cor texto */
+
+}
+
+a{
+   color: azure;
+   text-decoration:none;
+   font-family: 'Courier New', Courier, monospace;
+}
+
+ul {
+    list-style-type:none; ;/* estilo de lista */
+}
